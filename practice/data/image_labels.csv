@@ -1,0 +1,1037 @@
+Image_filename,Classification
+benign (1).png,1.0
+benign (10).png,1.0
+benign (100).png,1.0
+benign (101).png,1.0
+benign (102).png,1.0
+benign (103).png,1.0
+benign (104).png,1.0
+benign (105).png,1.0
+benign (106).png,1.0
+benign (107).png,1.0
+benign (108).png,1.0
+benign (109).png,1.0
+benign (11).png,1.0
+benign (110).png,1.0
+benign (111).png,1.0
+benign (112).png,1.0
+benign (113).png,1.0
+benign (114).png,1.0
+benign (115).png,1.0
+benign (116).png,1.0
+benign (117).png,1.0
+benign (118).png,1.0
+benign (119).png,1.0
+benign (12).png,1.0
+benign (120).png,1.0
+benign (121).png,1.0
+benign (122).png,1.0
+benign (123).png,1.0
+benign (124).png,1.0
+benign (125).png,1.0
+benign (126).png,1.0
+benign (127).png,1.0
+benign (128).png,1.0
+benign (129).png,1.0
+benign (13).png,1.0
+benign (130).png,1.0
+benign (131).png,1.0
+benign (132).png,1.0
+benign (133).png,1.0
+benign (134).png,1.0
+benign (135).png,1.0
+benign (136).png,1.0
+benign (137).png,1.0
+benign (138).png,1.0
+benign (139).png,1.0
+benign (14).png,1.0
+benign (140).png,1.0
+benign (141).png,1.0
+benign (142).png,1.0
+benign (143).png,1.0
+benign (144).png,1.0
+benign (145).png,1.0
+benign (146).png,1.0
+benign (147).png,1.0
+benign (148).png,1.0
+benign (149).png,1.0
+benign (15).png,1.0
+benign (150).png,1.0
+benign (151).png,1.0
+benign (152).png,1.0
+benign (153).png,1.0
+benign (154).png,1.0
+benign (155).png,1.0
+benign (156).png,1.0
+benign (157).png,1.0
+benign (158).png,1.0
+benign (159).png,1.0
+benign (16).png,1.0
+benign (160).png,1.0
+benign (161).png,1.0
+benign (162).png,1.0
+benign (163).png,1.0
+benign (164).png,1.0
+benign (165).png,1.0
+benign (166).png,1.0
+benign (167).png,1.0
+benign (168).png,1.0
+benign (169).png,1.0
+benign (17).png,1.0
+benign (170).png,1.0
+benign (171).png,1.0
+benign (172).png,1.0
+benign (173).png,1.0
+benign (174).png,1.0
+benign (175).png,1.0
+benign (176).png,1.0
+benign (177).png,1.0
+benign (178).png,1.0
+benign (179).png,1.0
+benign (18).png,1.0
+benign (180).png,1.0
+benign (181).png,1.0
+benign (182).png,1.0
+benign (183).png,1.0
+benign (184).png,1.0
+benign (185).png,1.0
+benign (186).png,1.0
+benign (187).png,1.0
+benign (188).png,1.0
+benign (189).png,1.0
+benign (19).png,1.0
+benign (190).png,1.0
+benign (191).png,1.0
+benign (192).png,1.0
+benign (193).png,1.0
+benign (194).png,1.0
+benign (195).png,1.0
+benign (196).png,1.0
+benign (197).png,1.0
+benign (198).png,1.0
+benign (199).png,1.0
+benign (2).png,1.0
+benign (20).png,1.0
+benign (200).png,1.0
+benign (201).png,1.0
+benign (202).png,1.0
+benign (203).png,1.0
+benign (204).png,1.0
+benign (205).png,1.0
+benign (206).png,1.0
+benign (207).png,1.0
+benign (208).png,1.0
+benign (209).png,1.0
+benign (21).png,1.0
+benign (210).png,1.0
+benign (211).png,1.0
+benign (212).png,1.0
+benign (213).png,1.0
+benign (214).png,1.0
+benign (215).png,1.0
+benign (216).png,1.0
+benign (217).png,1.0
+benign (218).png,1.0
+benign (219).png,1.0
+benign (22).png,1.0
+benign (220).png,1.0
+benign (221).png,1.0
+benign (222).png,1.0
+benign (223).png,1.0
+benign (224).png,1.0
+benign (225).png,1.0
+benign (226).png,1.0
+benign (227).png,1.0
+benign (228).png,1.0
+benign (229).png,1.0
+benign (23).png,1.0
+benign (230).png,1.0
+benign (231).png,1.0
+benign (232).png,1.0
+benign (233).png,1.0
+benign (234).png,1.0
+benign (235).png,1.0
+benign (236).png,1.0
+benign (237).png,1.0
+benign (238).png,1.0
+benign (239).png,1.0
+benign (24).png,1.0
+benign (240).png,1.0
+benign (241).png,1.0
+benign (242).png,1.0
+benign (243).png,1.0
+benign (244).png,1.0
+benign (245).png,1.0
+benign (246).png,1.0
+benign (247).png,1.0
+benign (248).png,1.0
+benign (249).png,1.0
+benign (25).png,1.0
+benign (250).png,1.0
+benign (251).png,1.0
+benign (252).png,1.0
+benign (253).png,1.0
+benign (254).png,1.0
+benign (255).png,1.0
+benign (256).png,1.0
+benign (257).png,1.0
+benign (258).png,1.0
+benign (259).png,1.0
+benign (26).png,1.0
+benign (260).png,1.0
+benign (261).png,1.0
+benign (262).png,1.0
+benign (263).png,1.0
+benign (264).png,1.0
+benign (265).png,1.0
+benign (266).png,1.0
+benign (267).png,1.0
+benign (268).png,1.0
+benign (269).png,1.0
+benign (27).png,1.0
+benign (270).png,1.0
+benign (271).png,1.0
+benign (272).png,1.0
+benign (273).png,1.0
+benign (274).png,1.0
+benign (275).png,1.0
+benign (276).png,1.0
+benign (277).png,1.0
+benign (278).png,1.0
+benign (279).png,1.0
+benign (28).png,1.0
+benign (280).png,1.0
+benign (281).png,1.0
+benign (282).png,1.0
+benign (283).png,1.0
+benign (284).png,1.0
+benign (285).png,1.0
+benign (286).png,1.0
+benign (287).png,1.0
+benign (288).png,1.0
+benign (289).png,1.0
+benign (29).png,1.0
+benign (290).png,1.0
+benign (291).png,1.0
+benign (292).png,1.0
+benign (293).png,1.0
+benign (294).png,1.0
+benign (295).png,1.0
+benign (296).png,1.0
+benign (297).png,1.0
+benign (298).png,1.0
+benign (299).png,1.0
+benign (3).png,1.0
+benign (30).png,1.0
+benign (300).png,1.0
+benign (301).png,1.0
+benign (302).png,1.0
+benign (303).png,1.0
+benign (304).png,1.0
+benign (305).png,1.0
+benign (306).png,1.0
+benign (307).png,1.0
+benign (308).png,1.0
+benign (309).png,1.0
+benign (31).png,1.0
+benign (310).png,1.0
+benign (311).png,1.0
+benign (312).png,1.0
+benign (313).png,1.0
+benign (314).png,1.0
+benign (315).png,1.0
+benign (316).png,1.0
+benign (317).png,1.0
+benign (318).png,1.0
+benign (319).png,1.0
+benign (32).png,1.0
+benign (320).png,1.0
+benign (321).png,1.0
+benign (322).png,1.0
+benign (323).png,1.0
+benign (324).png,1.0
+benign (325).png,1.0
+benign (326).png,1.0
+benign (327).png,1.0
+benign (328).png,1.0
+benign (329).png,1.0
+benign (33).png,1.0
+benign (330).png,1.0
+benign (331).png,1.0
+benign (332).png,1.0
+benign (333).png,1.0
+benign (334).png,1.0
+benign (335).png,1.0
+benign (336).png,1.0
+benign (337).png,1.0
+benign (338).png,1.0
+benign (339).png,1.0
+benign (34).png,1.0
+benign (340).png,1.0
+benign (341).png,1.0
+benign (342).png,1.0
+benign (343).png,1.0
+benign (344).png,1.0
+benign (345).png,1.0
+benign (346).png,1.0
+benign (347).png,1.0
+benign (348).png,1.0
+benign (349).png,1.0
+benign (35).png,1.0
+benign (350).png,1.0
+benign (351).png,1.0
+benign (352).png,1.0
+benign (353).png,1.0
+benign (354).png,1.0
+benign (355).png,1.0
+benign (356).png,1.0
+benign (357).png,1.0
+benign (358).png,1.0
+benign (359).png,1.0
+benign (36).png,1.0
+benign (360).png,1.0
+benign (361).png,1.0
+benign (362).png,1.0
+benign (363).png,1.0
+benign (364).png,1.0
+benign (365).png,1.0
+benign (366).png,1.0
+benign (367).png,1.0
+benign (368).png,1.0
+benign (369).png,1.0
+benign (37).png,1.0
+benign (370).png,1.0
+benign (371).png,1.0
+benign (372).png,1.0
+benign (373).png,1.0
+benign (374).png,1.0
+benign (375).png,1.0
+benign (376).png,1.0
+benign (377).png,1.0
+benign (378).png,1.0
+benign (379).png,1.0
+benign (38).png,1.0
+benign (380).png,1.0
+benign (381).png,1.0
+benign (382).png,1.0
+benign (383).png,1.0
+benign (384).png,1.0
+benign (385).png,1.0
+benign (386).png,1.0
+benign (387).png,1.0
+benign (388).png,1.0
+benign (389).png,1.0
+benign (39).png,1.0
+benign (390).png,1.0
+benign (391).png,1.0
+benign (392).png,1.0
+benign (393).png,1.0
+benign (394).png,1.0
+benign (395).png,1.0
+benign (396).png,1.0
+benign (397).png,1.0
+benign (398).png,1.0
+benign (399).png,1.0
+benign (4).png,1.0
+benign (40).png,1.0
+benign (400).png,1.0
+benign (401).png,1.0
+benign (402).png,1.0
+benign (403).png,1.0
+benign (404).png,1.0
+benign (405).png,1.0
+benign (406).png,1.0
+benign (407).png,1.0
+benign (408).png,1.0
+benign (409).png,1.0
+benign (41).png,1.0
+benign (410).png,1.0
+benign (411).png,1.0
+benign (412).png,1.0
+benign (413).png,1.0
+benign (414).png,1.0
+benign (415).png,1.0
+benign (416).png,1.0
+benign (417).png,1.0
+benign (418).png,1.0
+benign (419).png,1.0
+benign (42).png,1.0
+benign (420).png,1.0
+benign (421).png,1.0
+benign (422).png,1.0
+benign (423).png,1.0
+benign (424).png,1.0
+benign (425).png,1.0
+benign (426).png,1.0
+benign (427).png,1.0
+benign (428).png,1.0
+benign (429).png,1.0
+benign (43).png,1.0
+benign (430).png,1.0
+benign (431).png,1.0
+benign (432).png,1.0
+benign (433).png,1.0
+benign (434).png,1.0
+benign (435).png,1.0
+benign (436).png,1.0
+benign (437).png,1.0
+benign (44).png,1.0
+benign (45).png,1.0
+benign (46).png,1.0
+benign (47).png,1.0
+benign (48).png,1.0
+benign (49).png,1.0
+benign (5).png,1.0
+benign (50).png,1.0
+benign (51).png,1.0
+benign (52).png,1.0
+benign (53).png,1.0
+benign (54).png,1.0
+benign (55).png,1.0
+benign (56).png,1.0
+benign (57).png,1.0
+benign (58).png,1.0
+benign (59).png,1.0
+benign (6).png,1.0
+benign (60).png,1.0
+benign (61).png,1.0
+benign (62).png,1.0
+benign (63).png,1.0
+benign (64).png,1.0
+benign (65).png,1.0
+benign (66).png,1.0
+benign (67).png,1.0
+benign (68).png,1.0
+benign (69).png,1.0
+benign (7).png,1.0
+benign (70).png,1.0
+benign (71).png,1.0
+benign (72).png,1.0
+benign (73).png,1.0
+benign (74).png,1.0
+benign (75).png,1.0
+benign (76).png,1.0
+benign (77).png,1.0
+benign (78).png,1.0
+benign (79).png,1.0
+benign (8).png,1.0
+benign (80).png,1.0
+benign (81).png,1.0
+benign (82).png,1.0
+benign (83).png,1.0
+benign (84).png,1.0
+benign (85).png,1.0
+benign (86).png,1.0
+benign (87).png,1.0
+benign (88).png,1.0
+benign (89).png,1.0
+benign (9).png,1.0
+benign (90).png,1.0
+benign (91).png,1.0
+benign (92).png,1.0
+benign (93).png,1.0
+benign (94).png,1.0
+benign (95).png,1.0
+benign (96).png,1.0
+benign (97).png,1.0
+benign (98).png,1.0
+benign (99).png,1.0
+case001.png,1.0
+case002.png,1.0
+case003.png,1.0
+case004.png,1.0
+case005.png,2.0
+case006.png,1.0
+case007.png,2.0
+case008.png,2.0
+case009.png,1.0
+case010.png,2.0
+case011.png,2.0
+case012.png,2.0
+case013.png,2.0
+case014.png,1.0
+case015.png,1.0
+case016.png,1.0
+case017.png,1.0
+case018.png,1.0
+case019.png,1.0
+case020.png,1.0
+case021.png,1.0
+case022.png,1.0
+case023.png,1.0
+case024.png,1.0
+case025.png,1.0
+case026.png,2.0
+case027.png,2.0
+case028.png,1.0
+case029.png,1.0
+case030.png,1.0
+case031.png,1.0
+case032.png,2.0
+case033.png,1.0
+case034.png,2.0
+case035.png,2.0
+case036.png,1.0
+case037.png,1.0
+case038.png,1.0
+case039.png,1.0
+case040.png,1.0
+case041.png,1.0
+case042.png,1.0
+case043.png,1.0
+case044.png,1.0
+case045.png,0.0
+case046.png,2.0
+case047.png,1.0
+case048.png,1.0
+case049.png,1.0
+case050.png,2.0
+case051.png,1.0
+case052.png,1.0
+case053.png,2.0
+case054.png,1.0
+case055.png,2.0
+case056.png,1.0
+case057.png,1.0
+case058.png,2.0
+case059.png,1.0
+case060.png,2.0
+case061.png,0.0
+case062.png,1.0
+case063.png,2.0
+case064.png,1.0
+case065.png,1.0
+case066.png,2.0
+case067.png,2.0
+case068.png,1.0
+case069.png,1.0
+case070.png,1.0
+case071.png,1.0
+case072.png,2.0
+case073.png,1.0
+case074.png,1.0
+case075.png,2.0
+case076.png,2.0
+case077.png,1.0
+case078.png,1.0
+case079.png,2.0
+case080.png,1.0
+case081.png,1.0
+case082.png,2.0
+case083.png,1.0
+case084.png,1.0
+case085.png,1.0
+case086.png,2.0
+case087.png,2.0
+case088.png,2.0
+case089.png,2.0
+case090.png,2.0
+case091.png,1.0
+case092.png,1.0
+case093.png,1.0
+case094.png,2.0
+case095.png,1.0
+case096.png,1.0
+case097.png,1.0
+case098.png,1.0
+case099.png,2.0
+case100.png,1.0
+case101.png,2.0
+case102.png,2.0
+case103.png,2.0
+case104.png,1.0
+case105.png,2.0
+case106.png,2.0
+case107.png,2.0
+case108.png,1.0
+case109.png,2.0
+case110.png,1.0
+case111.png,2.0
+case112.png,2.0
+case113.png,2.0
+case114.png,2.0
+case115.png,1.0
+case116.png,1.0
+case117.png,2.0
+case118.png,1.0
+case119.png,1.0
+case120.png,1.0
+case121.png,2.0
+case122.png,1.0
+case123.png,1.0
+case124.png,1.0
+case125.png,2.0
+case126.png,1.0
+case127.png,2.0
+case128.png,2.0
+case129.png,1.0
+case130.png,2.0
+case131.png,1.0
+case132.png,2.0
+case133.png,2.0
+case134.png,1.0
+case135.png,1.0
+case136.png,1.0
+case137.png,1.0
+case138.png,1.0
+case139.png,1.0
+case140.png,1.0
+case141.png,1.0
+case142.png,1.0
+case143.png,1.0
+case144.png,2.0
+case145.png,2.0
+case146.png,1.0
+case147.png,2.0
+case148.png,2.0
+case149.png,2.0
+case150.png,2.0
+case151.png,1.0
+case152.png,1.0
+case153.png,2.0
+case154.png,2.0
+case155.png,1.0
+case156.png,1.0
+case157.png,1.0
+case158.png,2.0
+case159.png,1.0
+case160.png,2.0
+case161.png,1.0
+case162.png,1.0
+case163.png,1.0
+case164.png,2.0
+case165.png,1.0
+case166.png,1.0
+case167.png,1.0
+case168.png,1.0
+case169.png,1.0
+case170.png,2.0
+case171.png,1.0
+case172.png,2.0
+case173.png,2.0
+case174.png,2.0
+case175.png,1.0
+case176.png,2.0
+case177.png,1.0
+case178.png,1.0
+case179.png,1.0
+case180.png,1.0
+case181.png,1.0
+case182.png,1.0
+case183.png,1.0
+case184.png,1.0
+case185.png,1.0
+case186.png,1.0
+case187.png,1.0
+case188.png,1.0
+case189.png,1.0
+case190.png,2.0
+case191.png,1.0
+case192.png,1.0
+case193.png,1.0
+case194.png,1.0
+case195.png,2.0
+case196.png,1.0
+case197.png,1.0
+case198.png,2.0
+case199.png,2.0
+case200.png,1.0
+case201.png,1.0
+case202.png,1.0
+case203.png,1.0
+case204.png,1.0
+case205.png,2.0
+case206.png,2.0
+case207.png,1.0
+case208.png,1.0
+case209.png,0.0
+case210.png,1.0
+case211.png,2.0
+case212.png,2.0
+case213.png,0.0
+case214.png,1.0
+case215.png,1.0
+case216.png,1.0
+case217.png,1.0
+case218.png,2.0
+case219.png,2.0
+case220.png,1.0
+case221.png,2.0
+case222.png,1.0
+case223.png,1.0
+case224.png,1.0
+case225.png,2.0
+case226.png,2.0
+case227.png,2.0
+case228.png,2.0
+case229.png,1.0
+case230.png,2.0
+case231.png,1.0
+case232.png,1.0
+case233.png,2.0
+case234.png,2.0
+case235.png,1.0
+case236.png,1.0
+case237.png,1.0
+case238.png,2.0
+case239.png,2.0
+case240.png,1.0
+case241.png,1.0
+case242.png,1.0
+case243.png,2.0
+case244.png,2.0
+case245.png,2.0
+case246.png,1.0
+case247.png,2.0
+case248.png,2.0
+case249.png,2.0
+case250.png,2.0
+case251.png,2.0
+case252.png,1.0
+case253.png,1.0
+case254.png,2.0
+case255.png,2.0
+case256.png,1.0
+malignant (1).png,2.0
+malignant (10).png,2.0
+malignant (100).png,2.0
+malignant (101).png,2.0
+malignant (102).png,2.0
+malignant (103).png,2.0
+malignant (104).png,2.0
+malignant (105).png,2.0
+malignant (106).png,2.0
+malignant (107).png,2.0
+malignant (108).png,2.0
+malignant (109).png,2.0
+malignant (11).png,2.0
+malignant (110).png,2.0
+malignant (111).png,2.0
+malignant (112).png,2.0
+malignant (113).png,2.0
+malignant (114).png,2.0
+malignant (115).png,2.0
+malignant (116).png,2.0
+malignant (117).png,2.0
+malignant (118).png,2.0
+malignant (119).png,2.0
+malignant (12).png,2.0
+malignant (120).png,2.0
+malignant (121).png,2.0
+malignant (122).png,2.0
+malignant (123).png,2.0
+malignant (124).png,2.0
+malignant (125).png,2.0
+malignant (126).png,2.0
+malignant (127).png,2.0
+malignant (128).png,2.0
+malignant (129).png,2.0
+malignant (13).png,2.0
+malignant (130).png,2.0
+malignant (131).png,2.0
+malignant (132).png,2.0
+malignant (133).png,2.0
+malignant (134).png,2.0
+malignant (135).png,2.0
+malignant (136).png,2.0
+malignant (137).png,2.0
+malignant (138).png,2.0
+malignant (139).png,2.0
+malignant (14).png,2.0
+malignant (140).png,2.0
+malignant (141).png,2.0
+malignant (142).png,2.0
+malignant (143).png,2.0
+malignant (144).png,2.0
+malignant (145).png,2.0
+malignant (146).png,2.0
+malignant (147).png,2.0
+malignant (148).png,2.0
+malignant (149).png,2.0
+malignant (15).png,2.0
+malignant (150).png,2.0
+malignant (151).png,2.0
+malignant (152).png,2.0
+malignant (153).png,2.0
+malignant (154).png,2.0
+malignant (155).png,2.0
+malignant (156).png,2.0
+malignant (157).png,2.0
+malignant (158).png,2.0
+malignant (159).png,2.0
+malignant (16).png,2.0
+malignant (160).png,2.0
+malignant (161).png,2.0
+malignant (162).png,2.0
+malignant (163).png,2.0
+malignant (164).png,2.0
+malignant (165).png,2.0
+malignant (166).png,2.0
+malignant (167).png,2.0
+malignant (168).png,2.0
+malignant (169).png,2.0
+malignant (17).png,2.0
+malignant (170).png,2.0
+malignant (171).png,2.0
+malignant (172).png,2.0
+malignant (173).png,2.0
+malignant (174).png,2.0
+malignant (175).png,2.0
+malignant (176).png,2.0
+malignant (177).png,2.0
+malignant (178).png,2.0
+malignant (179).png,2.0
+malignant (18).png,2.0
+malignant (180).png,2.0
+malignant (181).png,2.0
+malignant (182).png,2.0
+malignant (183).png,2.0
+malignant (184).png,2.0
+malignant (185).png,2.0
+malignant (186).png,2.0
+malignant (187).png,2.0
+malignant (188).png,2.0
+malignant (189).png,2.0
+malignant (19).png,2.0
+malignant (190).png,2.0
+malignant (191).png,2.0
+malignant (192).png,2.0
+malignant (193).png,2.0
+malignant (194).png,2.0
+malignant (195).png,2.0
+malignant (196).png,2.0
+malignant (197).png,2.0
+malignant (198).png,2.0
+malignant (199).png,2.0
+malignant (2).png,2.0
+malignant (20).png,2.0
+malignant (200).png,2.0
+malignant (201).png,2.0
+malignant (202).png,2.0
+malignant (203).png,2.0
+malignant (204).png,2.0
+malignant (205).png,2.0
+malignant (206).png,2.0
+malignant (207).png,2.0
+malignant (208).png,2.0
+malignant (209).png,2.0
+malignant (21).png,2.0
+malignant (210).png,2.0
+malignant (22).png,2.0
+malignant (23).png,2.0
+malignant (24).png,2.0
+malignant (25).png,2.0
+malignant (26).png,2.0
+malignant (27).png,2.0
+malignant (28).png,2.0
+malignant (29).png,2.0
+malignant (3).png,2.0
+malignant (30).png,2.0
+malignant (31).png,2.0
+malignant (32).png,2.0
+malignant (33).png,2.0
+malignant (34).png,2.0
+malignant (35).png,2.0
+malignant (36).png,2.0
+malignant (37).png,2.0
+malignant (38).png,2.0
+malignant (39).png,2.0
+malignant (4).png,2.0
+malignant (40).png,2.0
+malignant (41).png,2.0
+malignant (42).png,2.0
+malignant (43).png,2.0
+malignant (44).png,2.0
+malignant (45).png,2.0
+malignant (46).png,2.0
+malignant (47).png,2.0
+malignant (48).png,2.0
+malignant (49).png,2.0
+malignant (5).png,2.0
+malignant (50).png,2.0
+malignant (51).png,2.0
+malignant (52).png,2.0
+malignant (53).png,2.0
+malignant (54).png,2.0
+malignant (55).png,2.0
+malignant (56).png,2.0
+malignant (57).png,2.0
+malignant (58).png,2.0
+malignant (59).png,2.0
+malignant (6).png,2.0
+malignant (60).png,2.0
+malignant (61).png,2.0
+malignant (62).png,2.0
+malignant (63).png,2.0
+malignant (64).png,2.0
+malignant (65).png,2.0
+malignant (66).png,2.0
+malignant (67).png,2.0
+malignant (68).png,2.0
+malignant (69).png,2.0
+malignant (7).png,2.0
+malignant (70).png,2.0
+malignant (71).png,2.0
+malignant (72).png,2.0
+malignant (73).png,2.0
+malignant (74).png,2.0
+malignant (75).png,2.0
+malignant (76).png,2.0
+malignant (77).png,2.0
+malignant (78).png,2.0
+malignant (79).png,2.0
+malignant (8).png,2.0
+malignant (80).png,2.0
+malignant (81).png,2.0
+malignant (82).png,2.0
+malignant (83).png,2.0
+malignant (84).png,2.0
+malignant (85).png,2.0
+malignant (86).png,2.0
+malignant (87).png,2.0
+malignant (88).png,2.0
+malignant (89).png,2.0
+malignant (9).png,2.0
+malignant (90).png,2.0
+malignant (91).png,2.0
+malignant (92).png,2.0
+malignant (93).png,2.0
+malignant (94).png,2.0
+malignant (95).png,2.0
+malignant (96).png,2.0
+malignant (97).png,2.0
+malignant (98).png,2.0
+malignant (99).png,2.0
+normal (1).png,0.0
+normal (10).png,0.0
+normal (100).png,0.0
+normal (101).png,0.0
+normal (102).png,0.0
+normal (103).png,0.0
+normal (104).png,0.0
+normal (105).png,0.0
+normal (106).png,0.0
+normal (107).png,0.0
+normal (108).png,0.0
+normal (109).png,0.0
+normal (11).png,0.0
+normal (110).png,0.0
+normal (111).png,0.0
+normal (112).png,0.0
+normal (113).png,0.0
+normal (114).png,0.0
+normal (115).png,0.0
+normal (116).png,0.0
+normal (117).png,0.0
+normal (118).png,0.0
+normal (119).png,0.0
+normal (12).png,0.0
+normal (120).png,0.0
+normal (121).png,0.0
+normal (122).png,0.0
+normal (123).png,0.0
+normal (124).png,0.0
+normal (125).png,0.0
+normal (126).png,0.0
+normal (127).png,0.0
+normal (128).png,0.0
+normal (129).png,0.0
+normal (13).png,0.0
+normal (130).png,0.0
+normal (131).png,0.0
+normal (132).png,0.0
+normal (133).png,0.0
+normal (14).png,0.0
+normal (15).png,0.0
+normal (16).png,0.0
+normal (17).png,0.0
+normal (18).png,0.0
+normal (19).png,0.0
+normal (2).png,0.0
+normal (20).png,0.0
+normal (21).png,0.0
+normal (22).png,0.0
+normal (23).png,0.0
+normal (24).png,0.0
+normal (25).png,0.0
+normal (26).png,0.0
+normal (27).png,0.0
+normal (28).png,0.0
+normal (29).png,0.0
+normal (3).png,0.0
+normal (30).png,0.0
+normal (31).png,0.0
+normal (32).png,0.0
+normal (33).png,0.0
+normal (34).png,0.0
+normal (35).png,0.0
+normal (36).png,0.0
+normal (37).png,0.0
+normal (38).png,0.0
+normal (39).png,0.0
+normal (4).png,0.0
+normal (40).png,0.0
+normal (41).png,0.0
+normal (42).png,0.0
+normal (43).png,0.0
+normal (44).png,0.0
+normal (45).png,0.0
+normal (46).png,0.0
+normal (47).png,0.0
+normal (48).png,0.0
+normal (49).png,0.0
+normal (5).png,0.0
+normal (50).png,0.0
+normal (51).png,0.0
+normal (52).png,0.0
+normal (53).png,0.0
+normal (54).png,0.0
+normal (55).png,0.0
+normal (56).png,0.0
+normal (57).png,0.0
+normal (58).png,0.0
+normal (59).png,0.0
+normal (6).png,0.0
+normal (60).png,0.0
+normal (61).png,0.0
+normal (62).png,0.0
+normal (63).png,0.0
+normal (64).png,0.0
+normal (65).png,0.0
+normal (66).png,0.0
+normal (67).png,0.0
+normal (68).png,0.0
+normal (69).png,0.0
+normal (7).png,0.0
+normal (70).png,0.0
+normal (71).png,0.0
+normal (72).png,0.0
+normal (73).png,0.0
+normal (74).png,0.0
+normal (75).png,0.0
+normal (76).png,0.0
+normal (77).png,0.0
+normal (78).png,0.0
+normal (79).png,0.0
+normal (8).png,0.0
+normal (80).png,0.0
+normal (81).png,0.0
+normal (82).png,0.0
+normal (83).png,0.0
+normal (84).png,0.0
+normal (85).png,0.0
+normal (86).png,0.0
+normal (87).png,0.0
+normal (88).png,0.0
+normal (89).png,0.0
+normal (9).png,0.0
+normal (90).png,0.0
+normal (91).png,0.0
+normal (92).png,0.0
+normal (93).png,0.0
+normal (94).png,0.0
+normal (95).png,0.0
+normal (96).png,0.0
+normal (97).png,0.0
+normal (98).png,0.0
+normal (99).png,0.0
